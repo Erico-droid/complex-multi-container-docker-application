@@ -1,1 +1,1 @@
-using docker to create multi-containers using redis, postgres, react and node
+using docker to create multi-containers using redis, nginx, postgres, react and node
